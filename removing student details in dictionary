@@ -1,0 +1,3 @@
+d={'sname':'priya','srollno':25,'sdept':'bca','sadno':2475,'sadd':'kkd'}
+d.clear()
+print(d)
